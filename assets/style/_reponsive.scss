@@ -1,0 +1,22 @@
+@media screen and (max-width: 768px) {
+    .header__nav{
+
+        &--bars{
+            float: right;
+            display: block;
+        }
+    }
+    #navbar{
+
+        // &-right{
+
+        //     & a:not(:last-child){
+        //         display: none;
+        //     }
+        // }
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+}
